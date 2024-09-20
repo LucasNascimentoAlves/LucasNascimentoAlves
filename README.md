@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LucasNascimentoAlves
+- 🌱 I’m currently learning Java, javascript, CSS, PostgreSQL
+- 🏫 Currently studying Software Engineering at Salvador's Catholic University (UCsal)
+- 📫 Contact me at: contactlucasnascimento@gmail.com
+- 😄 Pronouns: he/him
