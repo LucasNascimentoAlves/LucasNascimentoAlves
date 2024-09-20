@@ -2,7 +2,7 @@
 - 👋 Olá, me chamo @LucasNascimentoAlves
 - 😄 Pronomes: ele/dele
 - 🌱 Atualmente estou estudando Java, javascript, CSS, PostgreSQL
-- 🏫 Estou estudando na Universidade Católica de Salvador (UCsal)
+- 🏫 Estou estudando Engenharia de Software na Universidade Católica de Salvador (UCsal)
 - 📫 Entre em contato comigo em: contactlucasnascimento@gmail.com
 
 ### English
