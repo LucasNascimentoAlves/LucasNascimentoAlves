@@ -1,4 +1,4 @@
-### Portuguese
+### Português
 - 👋 Olá, me chamo @LucasNascimentoAlves
 - 🏫 Estou estudando Engenharia de Software na Universidade Católica de Salvador (UCsal)
 - 📫 Entre em contato comigo em: contactlucasnascimento@gmail.com
